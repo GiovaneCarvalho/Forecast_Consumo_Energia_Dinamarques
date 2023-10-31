@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/degio/Downloads/Estudos%202023/Personal%20Projects/Estudo%20de%20Energia%20Dinamarques/mlruns/264721167689002844/fa158229eb834f5e8ef405d67a35360d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '264721167689002844'
+lifecycle_stage: active
+run_id: fa158229eb834f5e8ef405d67a35360d
+run_name: dazzling-ant-404
+run_uuid: fa158229eb834f5e8ef405d67a35360d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698714461007
+status: 1
+tags: []
+user_id: degio
