@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/degio/Downloads/Estudos%202023/Personal%20Projects/Estudo%20de%20Energia%20Dinamarques/mlruns/264721167689002844/cd355669da5d4d06829f59306976b21e/artifacts
+end_time: 1698718947161
+entry_point_name: ''
+experiment_id: '264721167689002844'
+lifecycle_stage: active
+run_id: cd355669da5d4d06829f59306976b21e
+run_name: fun-crow-523
+run_uuid: cd355669da5d4d06829f59306976b21e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698717523637
+status: 3
+tags: []
+user_id: degio
