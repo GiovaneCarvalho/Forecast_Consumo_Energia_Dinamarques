@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/degio/Downloads/Estudos%202023/Personal%20Projects/Estudo%20de%20Energia%20Dinamarques/mlruns/264721167689002844/1828e5311e9749858a838761986b4f5e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '264721167689002844'
+lifecycle_stage: active
+run_id: 1828e5311e9749858a838761986b4f5e
+run_name: youthful-shrew-869
+run_uuid: 1828e5311e9749858a838761986b4f5e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698959212331
+status: 1
+tags: []
+user_id: degio

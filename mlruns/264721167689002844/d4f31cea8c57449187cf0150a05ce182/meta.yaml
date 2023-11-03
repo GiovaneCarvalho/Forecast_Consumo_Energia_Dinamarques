@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/degio/Downloads/Estudos%202023/Personal%20Projects/Estudo%20de%20Energia%20Dinamarques/mlruns/264721167689002844/d4f31cea8c57449187cf0150a05ce182/artifacts
+end_time: 1698958869927
+entry_point_name: ''
+experiment_id: '264721167689002844'
+lifecycle_stage: active
+run_id: d4f31cea8c57449187cf0150a05ce182
+run_name: grandiose-gull-215
+run_uuid: d4f31cea8c57449187cf0150a05ce182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698958523211
+status: 3
+tags: []
+user_id: degio
