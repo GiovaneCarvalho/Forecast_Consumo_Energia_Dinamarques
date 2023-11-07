@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/degio/Downloads/Estudos%202023/Personal%20Projects/Estudo%20de%20Energia%20Dinamarques/mlruns/264721167689002844/3929abda24324b48b05c2bc04e6f9acc/artifacts
+end_time: 1699315905390
+entry_point_name: ''
+experiment_id: '264721167689002844'
+lifecycle_stage: active
+run_id: 3929abda24324b48b05c2bc04e6f9acc
+run_name: chill-rook-58
+run_uuid: 3929abda24324b48b05c2bc04e6f9acc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1699315684860
+status: 3
+tags: []
+user_id: degio
