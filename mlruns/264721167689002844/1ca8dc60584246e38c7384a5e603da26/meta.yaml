@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/degio/Downloads/Estudos%202023/Personal%20Projects/Estudo%20de%20Energia%20Dinamarques/mlruns/264721167689002844/1ca8dc60584246e38c7384a5e603da26/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '264721167689002844'
+lifecycle_stage: active
+run_id: 1ca8dc60584246e38c7384a5e603da26
+run_name: hilarious-cow-111
+run_uuid: 1ca8dc60584246e38c7384a5e603da26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700096100728
+status: 1
+tags: []
+user_id: degio
