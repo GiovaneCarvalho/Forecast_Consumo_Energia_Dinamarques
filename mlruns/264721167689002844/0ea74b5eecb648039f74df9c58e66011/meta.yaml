@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/degio/Downloads/Estudos%202023/Personal%20Projects/Estudo%20de%20Energia%20Dinamarques/mlruns/264721167689002844/0ea74b5eecb648039f74df9c58e66011/artifacts
+end_time: 1700342478798
+entry_point_name: ''
+experiment_id: '264721167689002844'
+lifecycle_stage: active
+run_id: 0ea74b5eecb648039f74df9c58e66011
+run_name: kindly-finch-919
+run_uuid: 0ea74b5eecb648039f74df9c58e66011
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700342422033
+status: 3
+tags: []
+user_id: degio
