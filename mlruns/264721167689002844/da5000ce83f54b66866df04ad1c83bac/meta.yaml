@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/degio/Downloads/Estudos%202023/Personal%20Projects/Estudo%20de%20Energia%20Dinamarques/mlruns/264721167689002844/da5000ce83f54b66866df04ad1c83bac/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '264721167689002844'
+lifecycle_stage: active
+run_id: da5000ce83f54b66866df04ad1c83bac
+run_name: bouncy-eel-555
+run_uuid: da5000ce83f54b66866df04ad1c83bac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700347060388
+status: 1
+tags: []
+user_id: degio

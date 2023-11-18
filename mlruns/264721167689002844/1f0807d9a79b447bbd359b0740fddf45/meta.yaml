@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/degio/Downloads/Estudos%202023/Personal%20Projects/Estudo%20de%20Energia%20Dinamarques/mlruns/264721167689002844/1f0807d9a79b447bbd359b0740fddf45/artifacts
+end_time: 1700346079589
+entry_point_name: ''
+experiment_id: '264721167689002844'
+lifecycle_stage: active
+run_id: 1f0807d9a79b447bbd359b0740fddf45
+run_name: nosy-bear-890
+run_uuid: 1f0807d9a79b447bbd359b0740fddf45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700345885873
+status: 3
+tags: []
+user_id: degio
