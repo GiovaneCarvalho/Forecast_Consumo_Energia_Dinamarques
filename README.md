@@ -20,19 +20,27 @@ Como dito anteriormente, a previsão de demanda é algo extremamente importante 
 - Decomposição de séries temporais
 - Modelos AR, MA, ARIMA E SARIMA
 - Forecast de series temporais
-- Métricas de previsão para séries temporais (MAE)
+- Métricas de previsão para séries temporais (MAE e MAPE)
 - Forecast via modelos machine learning
 - Engenharia de dados para serie temporal
-- Modelos de Deep Learning e Prophet Forecasting
 
 **As métricas avaliadas serão**
 - MAE
-- 
+- MAPE
 
 ## 📊 Modelagem
 
 Como dito usaremos 3 principais abordagens: A primeira será o uso de modelos estatísticos classicos como ARMA, ARIMA e SARIMA. Faremos a análise gráfica, cálculo de métricas estatísticas de estacionariedade, modelagem de paramentros p,q,d,P,Q,D,S e forecast de demanda.
 
-Passamos então para a previsão via modelos clássicos de machine learning. Para isso vamos usar as técnicas x, y e z. Faremos uso de engenharia de features para criar novas variaveis que consigam representar bem os dados e com elas realizar a previsão da demanda de consumo de energia. Suas métricas de sucesso serão comparadas a outros modelos.
+Passamos então para a previsão via modelos clássicos de machine learning. Para isso vamos usar as técnicas de Regressão Linear de Ridge, Random Forest e XGBostRegressor. Faremos uso de engenharia de features para criar novas variaveis que consigam representar bem os dados e com elas realizar a previsão da demanda de consumo de energia. Suas métricas de sucesso serão comparadas a outros modelos.
 
-Por último, utilizaremos modelos mais complexos envolvendo deep learning e testaremos o modelo Prophet Forecasting do Facebook. 
+## 🚀 Reflexões Finais
+
+Testamos diferentes modelagens ao decorrer do projeto. A modelagem escolhida como a vencedora para a realização da previsão foi a do XGBoost com utilização de features baseadas no dia.
+
+Com ela conseguimos reduzir em quase **50%** o valor de MAPE do baseline calculado.
+
+Uma redução nesse nível tem impactos significativos na previsão de energia e pode ajudar o país/empresa a ser muito mais estratégico na gestão de recursos!
+
+
+
