@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/degio/Downloads/Estudos%202023/Personal%20Projects/Estudo%20de%20Energia%20Dinamarques/mlruns/264721167689002844/92f613a362c14b6bbaf32f34f14fb21d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '264721167689002844'
+lifecycle_stage: active
+run_id: 92f613a362c14b6bbaf32f34f14fb21d
+run_name: gaudy-perch-229
+run_uuid: 92f613a362c14b6bbaf32f34f14fb21d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700438037903
+status: 1
+tags: []
+user_id: degio

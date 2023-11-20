@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/degio/Downloads/Estudos%202023/Personal%20Projects/Estudo%20de%20Energia%20Dinamarques/mlruns/264721167689002844/daa1c461858f47d49aa1c0176d580604/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '264721167689002844'
+lifecycle_stage: active
+run_id: daa1c461858f47d49aa1c0176d580604
+run_name: gifted-hare-657
+run_uuid: daa1c461858f47d49aa1c0176d580604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700435923594
+status: 1
+tags: []
+user_id: degio

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/degio/Downloads/Estudos%202023/Personal%20Projects/Estudo%20de%20Energia%20Dinamarques/mlruns/264721167689002844/fdd54a42bd2d4e6fb43e321689fb754a/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '264721167689002844'
+lifecycle_stage: active
+run_id: fdd54a42bd2d4e6fb43e321689fb754a
+run_name: upbeat-hawk-755
+run_uuid: fdd54a42bd2d4e6fb43e321689fb754a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700438341464
+status: 1
+tags: []
+user_id: degio

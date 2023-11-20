@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/degio/Downloads/Estudos%202023/Personal%20Projects/Estudo%20de%20Energia%20Dinamarques/mlruns/264721167689002844/2d567bc000534a6a869e88352acd5ee6/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '264721167689002844'
+lifecycle_stage: active
+run_id: 2d567bc000534a6a869e88352acd5ee6
+run_name: clumsy-turtle-696
+run_uuid: 2d567bc000534a6a869e88352acd5ee6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700437568270
+status: 1
+tags: []
+user_id: degio

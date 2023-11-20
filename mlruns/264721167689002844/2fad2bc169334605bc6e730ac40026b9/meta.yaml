@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/degio/Downloads/Estudos%202023/Personal%20Projects/Estudo%20de%20Energia%20Dinamarques/mlruns/264721167689002844/2fad2bc169334605bc6e730ac40026b9/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '264721167689002844'
+lifecycle_stage: active
+run_id: 2fad2bc169334605bc6e730ac40026b9
+run_name: receptive-kit-851
+run_uuid: 2fad2bc169334605bc6e730ac40026b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700437153823
+status: 1
+tags: []
+user_id: degio
